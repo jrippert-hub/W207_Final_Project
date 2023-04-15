@@ -5,4 +5,4 @@ Hello! We have tackled the AMEX Credit Default Predicition Dataset from Kaggle. 
 
 1) Random Forest - see 'amex_random_forest.ipynb'
 2) Neural Network - see 'amex_transformer.ipynb'
-3) Clustering - see ''
+3) Clustering - see 'amex_knn.ipynb'
